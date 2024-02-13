@@ -18,11 +18,11 @@
       "interval_intertitial": 3,
       "initialize_sdk":"12345678",
       "initialize_sdk_backup_ads":"4561999",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
+      "high_paying_keyword_1": "null",
+      "high_paying_keyword_2": "null",
+      "high_paying_keyword_3": "null",
+      "high_paying_keyword_4": "null",
+      "high_paying_keyword_5": "null",
       "status_app": "0",
       "link_redirect": "https://"
     }
